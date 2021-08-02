@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{EnergyDiff}
+A.E. Kramida.
+\newblock A critical compilation of experimental data on spectral lines and
+  energy levels of hydrogen, deuterium, and tritium.
+\newblock {\em Atomic Data and Nuclear Data Tables}, 96(6):586--644, 2010.
+
+\bibitem{1950Fine}
+W.~E. Lamb and R.~C. Retherford.
+\newblock Fine structure of the hydrogen atom. part i.
+\newblock {\em Physical Review}, 79(4):549--572, 1950.
+
+\bibitem{1969Source}
+G.~P. Lawrence, G.~G. Ohlsen, and J.~L. Mckibben.
+\newblock Source of polarized negative hydrogen and deuterium ions.
+\newblock {\em Physics Letters B}, 28(9):594--596, 1969.
+
+\end{thebibliography}
